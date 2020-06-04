@@ -2,7 +2,7 @@
   "name": "nodejs-restapi-project",
   "version": "1.0.0",
   "description": "NodeJS Rest API with authentication and Mysql as DB.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start:dev": "nodemon /media/mahesh/New Volume/Mahesh/Node/nodejs-restapi-project$",
     "test": "echo \"Error: no test specified\" && exit 1"
